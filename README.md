@@ -4,5 +4,5 @@
   <img height="155em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBunga&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=radical" />
 </a>
 <a href="https://github.com/PedroBunga">
-  <img height="155em" align="center" src="https://github-readme-stats.vercel.app/api?username=PedroBunga&show_icons=true&hide_border=true" />
+  <img height="155em" align="center" src="https://github-readme-stats.vercel.app/api?username=PedroBunga&show_icons=true&hide_border=true&theme=radical" />
 </a>
